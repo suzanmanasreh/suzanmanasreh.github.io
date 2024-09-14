@@ -1,3 +1,3 @@
 # Suzan Manasreh
 
-- [Resume](suzanmanasreh.github.io/resume)
+- [Resume](https://suzanmanasreh.github.io/resume)
