@@ -1,4 +1,4 @@
-# AI Adjacent Workers Training Pitch
+# AI Adjacent Tech Worker Training Pitch
 
 ![image info](./public/image.png)
 
