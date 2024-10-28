@@ -6,4 +6,4 @@
 
 ![image info](./public/words2.png)
 
-![image info](./public/mary.png)
+![image info](./public/light.png)
