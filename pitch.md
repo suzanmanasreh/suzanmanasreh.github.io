@@ -5,6 +5,7 @@
 ![image info](./public/models.png)
 
 ![image info](./public/collage.jpg)
+https://llama-2.ai/llama-2-model-details/
 
 ![image info](./public/light.png)
 
