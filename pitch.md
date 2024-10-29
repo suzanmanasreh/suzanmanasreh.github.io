@@ -7,3 +7,5 @@
 ![image info](./public/collage.jpg)
 
 ![image info](./public/light.png)
+
+https://mlu-explain.github.io/bias-variance/
