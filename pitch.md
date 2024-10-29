@@ -4,6 +4,6 @@
 
 ![image info](./public/models.png)
 
-![image info](./public/words3.png)
+![image info](./public/collage.png)
 
 ![image info](./public/light.png)
